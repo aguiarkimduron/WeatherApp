@@ -1,0 +1,16 @@
+body{
+    background: rgb(241, 241, 241) !important;
+    letter-spacing: 0.2rem;
+    font-size: 0.8rem !important;
+}
+.container{
+    max-width: 400px !important;
+}
+.icon{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    border-radius: 50%;
+}
+
